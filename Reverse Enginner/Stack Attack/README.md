@@ -113,7 +113,7 @@ The function allocates multiple stack variables:
 ### Step 5: Extract the Encrypted Data
 From the Ghidra decompilation, we see the encrypted data stored across multiple 64-bit values. However, examining the `.rodata` section or stack initialization reveals additional bytes.
 
-Based on the README solution, the correct encrypted data is:
+Based on the analysis above, the correct encrypted data is:
 
 ```python
 data = b''

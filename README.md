@@ -2,7 +2,7 @@
 
 This repository contains challenges from the CTF Cyber Security Challenge Kosovo-Albania Final Round.
 
-**📚 Complete writeups are now available for all challenges!** Each challenge directory contains a comprehensive `WRITEUP.md` file with detailed solutions, methodologies, and educational content.
+**📚 Complete writeups are now available for all challenges!** Each challenge directory contains a comprehensive `README.md` file with detailed solutions, methodologies, and educational content.
 
 ## Categories
 
@@ -22,8 +22,8 @@ Mobile application security and reverse engineering challenges.
 
 | Challenge | Points | Description | Writeup |
 |-----------|--------|-------------|---------|
-| [Posta-beta](./Android/Posta-beta) | 400 | Android APK reverse engineering with XOR encryption | [📖 Writeup](./Android/Posta-beta/WRITEUP.md) |
-| [Posta-dev](./Android/Posta-dev) | 200 | Finding hardcoded credentials in Android source | [📖 Writeup](./Android/Posta-dev/WRITEUP.md) |
+| [Posta-beta](./Android/Posta-beta) | 400 | Android APK reverse engineering with XOR encryption | [📖 Writeup](./Android/Posta-beta/README.md) |
+| [Posta-dev](./Android/Posta-dev) | 200 | Finding hardcoded credentials in Android source | [📖 Writeup](./Android/Posta-dev/README.md) |
 
 ---
 
@@ -33,11 +33,11 @@ Custom encryption schemes and cipher challenges.
 
 | Challenge | Points | Description | Writeup |
 |-----------|--------|-------------|---------|
-| [Caesar_Again](./Cryptography/Caesar_Again) | 150 | Caesar cipher with obfuscated code | [📖 Writeup](./Cryptography/Caesar_Again/WRITEUP.md) |
-| [CryptoDome](./Cryptography/CryptoDome) | 300 | Custom "lasagna" encryption with XOR and bit rotation | [📖 Writeup](./Cryptography/CryptoDome/WRITEUP.md) |
-| [Illusion](./Cryptography/Illusion) | 300 | Multi-layer encryption (mist, fog, haze) | [📖 Writeup](./Cryptography/Illusion/WRITEUP.md) |
-| [XORShifter](./Cryptography/XORShifter) | 150 | XOR encryption with predictable random seed | [📖 Writeup](./Cryptography/XORShifter/WRITEUP.md) |
-| [maze](./Cryptography/maze) | 150 | JavaScript obfuscation and hidden files | [📖 Writeup](./Cryptography/maze/WRITEUP.md) |
+| [Caesar_Again](./Cryptography/Caesar_Again) | 150 | Caesar cipher with obfuscated code | [📖 Writeup](./Cryptography/Caesar_Again/README.md) |
+| [CryptoDome](./Cryptography/CryptoDome) | 300 | Custom "lasagna" encryption with XOR and bit rotation | [📖 Writeup](./Cryptography/CryptoDome/README.md) |
+| [Illusion](./Cryptography/Illusion) | 300 | Multi-layer encryption (mist, fog, haze) | [📖 Writeup](./Cryptography/Illusion/README.md) |
+| [XORShifter](./Cryptography/XORShifter) | 150 | XOR encryption with predictable random seed | [📖 Writeup](./Cryptography/XORShifter/README.md) |
+| [maze](./Cryptography/maze) | 150 | JavaScript obfuscation and hidden files | [📖 Writeup](./Cryptography/maze/README.md) |
 
 ---
 
@@ -47,15 +47,15 @@ Digital forensics, log analysis, and data recovery challenges.
 
 | Challenge | Points | Description | Writeup |
 |-----------|--------|-------------|---------|
-| [Dangerous_Events](./Forensic/Dangerous_Events) | 300 | Windows Event Log analysis - malicious PowerShell | [📖 Writeup](./Forensic/Dangerous_Events/WRITEUP.md) |
-| [Discord Bot](./Forensic/Discord%20Bot) | 150 | Git history forensics and secret recovery | [📖 Writeup](./Forensic/Discord%20Bot/WRITEUP.md) |
-| [Ghostrider](./Forensic/Ghostrider) | 300 | Apache log analysis - finding malicious beacons | [📖 Writeup](./Forensic/Ghostrider/WRITEUP.md) |
-| [Unclear](./Forensic/Unclear) | 100 | Binary to ASCII conversion steganography | [📖 Writeup](./Forensic/Unclear/WRITEUP.md) |
-| [Wired](./Forensic/Wired) | 300 | Network packet capture (PCAP) analysis | [📖 Writeup](./Forensic/Wired/WRITEUP.md) |
-| [Zipception](./Forensic/Zipception) | 500 | Nested ZIP files with password cracking | [📖 Writeup](./Forensic/Zipception/WRITEUP.md) |
-| [usb_keystrokes](./Forensic/usb_keystrokes) | 400 | USB HID keylogger data extraction | [📖 Writeup](./Forensic/usb_keystrokes/WRITEUP.md) |
-| [ransomware](./Forensic/ransomware) | N/A | Ransomware binary analysis and decryption | [📖 Writeup](./Forensic/ransomware/WRITEUP.md) |
-| [RedTape](<./Forensic/RedTape%20(1)>) | N/A | ZIP password cracking challenge | [📖 Writeup](<./Forensic/RedTape%20(1)/RedTape/WRITEUP.md>) |
+| [Dangerous_Events](./Forensic/Dangerous_Events) | 300 | Windows Event Log analysis - malicious PowerShell | [📖 Writeup](./Forensic/Dangerous_Events/README.md) |
+| [Discord Bot](./Forensic/Discord%20Bot) | 150 | Git history forensics and secret recovery | [📖 Writeup](./Forensic/Discord%20Bot/README.md) |
+| [Ghostrider](./Forensic/Ghostrider) | 300 | Apache log analysis - finding malicious beacons | [📖 Writeup](./Forensic/Ghostrider/README.md) |
+| [Unclear](./Forensic/Unclear) | 100 | Binary to ASCII conversion steganography | [📖 Writeup](./Forensic/Unclear/README.md) |
+| [Wired](./Forensic/Wired) | 300 | Network packet capture (PCAP) analysis | [📖 Writeup](./Forensic/Wired/README.md) |
+| [Zipception](./Forensic/Zipception) | 500 | Nested ZIP files with password cracking | [📖 Writeup](./Forensic/Zipception/README.md) |
+| [usb_keystrokes](./Forensic/usb_keystrokes) | 400 | USB HID keylogger data extraction | [📖 Writeup](./Forensic/usb_keystrokes/README.md) |
+| [ransomware](./Forensic/ransomware) | N/A | Ransomware binary analysis and decryption | [📖 Writeup](./Forensic/ransomware/README.md) |
+| [RedTape](<./Forensic/RedTape%20(1)>) | N/A | ZIP password cracking challenge | [📖 Writeup](<./Forensic/RedTape%20(1)/RedTape/README.md>) |
 
 ---
 
@@ -65,8 +65,8 @@ Binary analysis and reverse engineering challenges.
 
 | Challenge | Points | Description | Writeup |
 |-----------|--------|-------------|---------|
-| [Secret](./Reverse%20Enginner/Secret) | 300 | Binary analysis with Ghidra - XOR decryption | [📖 Writeup](./Reverse%20Enginner/Secret/WRITEUP.md) |
-| [Stack Attack](./Reverse%20Enginner/Stack%20Attack) | 450 | Stack buffer analysis with complex XOR chains | [📖 Writeup](./Reverse%20Enginner/Stack%20Attack/WRITEUP.md) |
+| [Secret](./Reverse%20Enginner/Secret) | 300 | Binary analysis with Ghidra - XOR decryption | [📖 Writeup](./Reverse%20Enginner/Secret/README.md) |
+| [Stack Attack](./Reverse%20Enginner/Stack%20Attack) | 450 | Stack buffer analysis with complex XOR chains | [📖 Writeup](./Reverse%20Enginner/Stack%20Attack/README.md) |
 
 ---
 
@@ -76,13 +76,13 @@ Web application security and exploitation challenges.
 
 | Challenge | Points | Description | Writeup |
 |-----------|--------|-------------|---------|
-| [graphql](./Web/graphql) | 300 | GraphQL introspection and hidden endpoints | [📖 Writeup](./Web/graphql/WRITEUP.md) |
+| [graphql](./Web/graphql) | 300 | GraphQL introspection and hidden endpoints | [📖 Writeup](./Web/graphql/README.md) |
 
 ---
 
 ## 📖 About the Writeups
 
-Each `WRITEUP.md` file contains:
+Each `README.md` file contains:
 
 - **Challenge Information** - Category, points, and difficulty level
 - **Challenge Description** - What the challenge is about

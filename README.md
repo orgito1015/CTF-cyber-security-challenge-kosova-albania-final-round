@@ -1,8 +1,8 @@
-# CTF-cyber-security-challenge-kosova-albania-final-round
+# CTF CyberSecurity Challenge Kosova & Albania Final Round
 
 This repository contains challenges from the CTF Cyber Security Challenge Kosovo-Albania Final Round.
 
-**📚 Complete writeups are now available for all challenges!** Each challenge directory contains a comprehensive `README.md` file with detailed solutions, methodologies, and educational content.
+** Complete writeups are now available for all challenges!** Each challenge directory contains a comprehensive `README.md` file with detailed solutions, methodologies, and educational content.
 
 ## Categories
 
@@ -94,13 +94,13 @@ Each `README.md` file contains:
 - **Defense Recommendations** - How to prevent similar issues
 - **Educational Value** - Skills and concepts taught by the challenge
 
-## 🎯 Difficulty Levels
+##  Difficulty Levels
 
 - **Easy** (100-150 points) - Basic concepts, straightforward solutions
 - **Medium** (200-300 points) - Moderate complexity, multiple steps
 - **Hard** (400-500 points) - Advanced techniques, complex analysis
 
-## 🛠️ Common Tools Used
+##  Common Tools Used
 
 ### Analysis Tools
 - **Wireshark/tshark** - Network analysis
@@ -141,7 +141,7 @@ Each `README.md` file contains:
 - Look for alternative approaches
 - Contribute improvements or optimizations
 
-## 🔐 Security Skills Covered
+##  Security Skills Covered
 
 - **Mobile Security** - Android reverse engineering, APK analysis
 - **Cryptanalysis** - Breaking custom crypto, understanding ciphers
@@ -150,7 +150,7 @@ Each `README.md` file contains:
 - **Web Security** - API exploitation, GraphQL attacks
 - **Network Forensics** - Packet analysis, protocol understanding
 
-## 🎓 Educational Use
+##  Educational Use
 
 These writeups are intended for:
 - **CTF Players** - Learning new techniques and approaches
@@ -158,14 +158,14 @@ These writeups are intended for:
 - **Educators** - Teaching materials for cybersecurity courses
 - **Researchers** - Reference implementations and methodologies
 
-## 🤝 Contributing
+##  Contributing
 
 If you find errors or have improvements:
 1. Open an issue describing the problem
 2. Submit a pull request with fixes
 3. Suggest alternative solutions or approaches
 
-## ⚠️ Ethical Use
+##  Ethical Use
 
 These challenges and writeups are for educational purposes only. Always:
 - Practice ethical hacking principles
@@ -173,7 +173,7 @@ These challenges and writeups are for educational purposes only. Always:
 - Respect privacy and legal boundaries
 - Use knowledge for defense, not attack
 
-## 📄 License
+##  License
 
 Educational use only. Respect the original CTF organization's terms.
 
